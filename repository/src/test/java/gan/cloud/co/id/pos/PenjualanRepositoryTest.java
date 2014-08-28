@@ -125,6 +125,6 @@ public class PenjualanRepositoryTest {
         }
         System.out.println("  Jumlah total : Rp."+jumlahTotal);
     }
-/* CCC*/
+
 
 }
